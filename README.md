@@ -1,5 +1,5 @@
 
-# <p align="center">👋 Hi, I’m Wiktor 👋</p>
+# <p align="center">👋 Hi, I’m Wiktor</p>
   
 # <p align="center">💡 Technologies</p>
 
